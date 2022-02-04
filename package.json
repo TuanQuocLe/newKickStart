@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "export": "next export",
     "test": "mocha",
     "dev": "node server.js"
   },
